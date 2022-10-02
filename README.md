@@ -1,7 +1,5 @@
-# Starter Web Repo
+# Project Introduction
 
-This repository is for showing how Git and GitHub work
+## Access to Http server
 
-## Purpose
-
-Sample website with plenty of files for demos
+## Access to db server
