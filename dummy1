@@ -10,4 +10,9 @@ what fun is here
 
 venu is besr
 
+<<<<<<< HEAD
 Don't want to see conflict on master
+=======
+
+conflict_line_ venu
+>>>>>>> venu_conflict
